@@ -1,0 +1,60 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+* {
+	font-family: "Lucida Grande", sans-serif;
+	color: #666666;
+}
+
+
+body {
+	line-height: 2.5;
+}
+
+h1 {
+	color: #666;
+	font-size: 48px;
+	line-height: 100px;
+	margin-bottom: 5px;
+}
+
+h2 {
+	font-size: 200%;
+	color: #f07c17;
+	padding-bottom: 1%;
+	margin-top: 0%;
+	margin-bottom: 30px;
+}
+
+p {
+	font-size: 100%;
+	color: #666;
+}
+
+.main-feature-box {
+	border: 1px solid #ccc;
+	padding: 27px 30px 32px 30px;
+	width : 374px;
+	height: 224px;
+}
+
+.blank-box {
+	position: relative;
+	width : 390px;
+	height: 32px;
+}
+
+li {
+	font-size: 102%;
+}
+
+
+ul {
+	padding-left: 12%;
+	padding-bottom: 15%;
+}
+
